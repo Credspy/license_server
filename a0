@@ -1,1 +1,5 @@
-{"state":"actived","resName":"Giant_skinui","a":"127.0.0.1","dayLeft":"30"}
+{
+  "state":"actived",
+  "resourceName":"Giant_skinui",
+  "a":"127.0.0.1"
+}
